@@ -2,6 +2,7 @@ User Guide for the LoggingComponent Library
 
 The LoggingComponent library offers simple and extensible logging capabilities for .NET applications. This user guide will explain how to use the main components of the library.
 
+Link to the NuGet package: https://www.nuget.org/packages/LoggingComponent_Laurynas_Komponentas/.
 
 Core Components:
 
